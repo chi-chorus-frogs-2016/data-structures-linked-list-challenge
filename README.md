@@ -45,7 +45,7 @@ Implement and write RSpec tests for the `LinkedList` class, supporting the follo
 - `LinkedList#insert_first(element)`: Insert an element at the front of the list
 - `LinkedList#remove_first`: Remove the element at the front of the list or `nil` if absent
 - `LinkedList#insert_last(element)`: Insert an element at the back of the list
-  `LinkedList#remove_last`: Remove the element at the back of the list or `nil` if absent
+- `LinkedList#remove_last`: Remove the element at the back of the list or `nil` if absent
 
 ## Release 2: More methods
 
