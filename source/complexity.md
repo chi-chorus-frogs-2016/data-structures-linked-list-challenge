@@ -1,0 +1,40 @@
+- LinkedList#new
+	- best case
+	 	- O(1)
+ 	- worst case
+ 		- O(1)
+- LinkedList#insert_first(element)
+	- best case
+	 	- O(1)
+ 	- worst case
+ 		- O(1)
+- LinkedList#remove_first(element)
+	- best case
+	 	- O(1)
+ 	- worst case
+ 		- O(1)
+- LinkedList#insert_last(element)
+	- best case
+	 	- O(1)
+ 	- worst case
+ 		- O(1)
+- LinkedList#remove_last(element)
+	- best case
+	 	- O(1)
+ 	- worst case
+ 		- O(1)
+- LinkedList#get(index)
+	- best case
+	 	- O(n)
+ 	- worst case
+ 		- O(n)
+- LinkedList#set(index, element)
+	- best case
+	 	- O(1)
+ 	- worst case
+ 		- O(n)
+- LinkedList#size
+	- best case
+	 	- O(n)
+ 	- worst case
+ 		- O(n)
